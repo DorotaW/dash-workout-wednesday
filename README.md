@@ -1,2 +1,2 @@
 # dash-workout-wednesday
-Challenges from http://www.workout-wednesday.com/latest/ solved in Dash[https://plotly.com/dash/]
+Weekly challenges from [Tableau Workout Wednesdays](http://www.workout-wednesday.com/latest/) solved in [Dash](https://plotly.com/dash/)
